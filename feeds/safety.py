@@ -1,2 +1,1 @@
-def is_safe(token):
-    return True
+def is_safe(token): return True

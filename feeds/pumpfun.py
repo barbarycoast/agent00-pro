@@ -1,2 +1,1 @@
-def get_new_tokens():
-    return ["SOL-TEST"]
+def get_new_tokens(): return ["SOL-TEST"]

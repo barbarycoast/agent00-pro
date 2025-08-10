@@ -1,2 +1,1 @@
-def check_risk():
-    return True
+def check_risk(): return True
